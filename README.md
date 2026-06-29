@@ -77,5 +77,5 @@ Aquí tienes una vista a las tecnologías que he estado viendo y utilizando reci
 ## 🤝 Lenguajes más utilizados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edusuarezA11&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduSuarez11&show_icons=true&locale=en&layout=compact" />
 </div>
